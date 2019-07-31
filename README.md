@@ -13,3 +13,8 @@ Chat Application for University Students
 3. The designer can use any images from https://www.pexels.com/ as needed.
 
 * If the designer requires more information on the app, he/she can ask questions to the client.
+
+## Prototyping software the designer might need. Use either one of them.
+
+InVison Studio: https://www.invisionapp.com/
+Adobe XD: https://www.adobe.com/products/xd.html
